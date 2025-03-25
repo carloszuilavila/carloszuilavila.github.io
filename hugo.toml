@@ -13,7 +13,7 @@ title = "Carlos Zuil Ávila"
 [params]
   avatarAltText = "avatar"
   avatarSize = "size-m"
-  avatarURL = "/images/avatar.webp"
+  avatarURL = "/static/images/avatar.webp"
 
   customHeadHTML = """
     <!-- KaTeX -->
