@@ -42,8 +42,8 @@ title = "Carlos Zuil Ávila"
   showBackToTopButton = true # true or false for "back to top" button on posts and pages
 
   socialIcons = [
-    {name = "linkedin", url = "https://example.com"},
-    {name = "email", url = "mailto:example@example.com"}
+    {name = "linkedin", url = "https://www.linkedin.com/in/carlos-zuil-avila/"},
+    {name = "email", url = "mailto:carloszuilavila@gmail.com"}
   ]
 
 [menu]
@@ -54,9 +54,9 @@ title = "Carlos Zuil Ávila"
     weight = 1
 
   [[menu.main]]
-    name = "Posts"
-    pre = "<span data-feather='book'></span>"
-    url = "/posts/"
+    name = "About Me"
+    pre = "<span data-feather='angellist'></span>"
+    url = "/about/"
     weight = 2
 
   [[menu.main]]
@@ -66,16 +66,22 @@ title = "Carlos Zuil Ávila"
     weight = 3
 
   [[menu.main]]
+    name = "Posts"
+    pre = "<span data-feather='book'></span>"
+    url = "/posts/"
+    weight = 4
+
+  [[menu.main]]
     name = "Tags"
     pre = "<span data-feather='tag'></span>"
     url = "/tags/"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     identifier = "github"
     pre = "<span data-feather='github'></span>"
     url = "https://github.com/carloszuilavila"
-    weight = 5
+    weight = 6
 
 [markup]
   [markup.tableOfContents]
