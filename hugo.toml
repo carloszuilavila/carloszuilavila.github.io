@@ -6,6 +6,10 @@ languageCode = "en"
 theme = "gokarna"
 title = "My New Hugo Site"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [menu]
   [[menu.main]]
     # Display name
