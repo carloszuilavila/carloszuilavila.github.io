@@ -4,7 +4,7 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 languageCode = "en"
 theme = "gokarna"
-title = "My New Hugo Site"
+title = "Carlos Zuil Ávila"
 
 [caches]
   [caches.images]
