@@ -1,8 +1,10 @@
 baseURL = "https://carloszuilavila.github.io/"
 defaultContentLanguage = "en"
+enableEmoji = true
 # Automatically generate robots.txt
 enableRobotsTXT = true
 languageCode = "en"
+pygmentsStyle = "monokai"
 theme = "gokarna"
 title = "Carlos Zuil Ávila"
 
