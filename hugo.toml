@@ -91,12 +91,6 @@ title = "Carlos Zuil Ávila"
     url = "https://github.com/carloszuilavila"
     weight = 7
 
-  [[menu.main]]
-    identifier = "linkedin"
-    pre = "<span data-feather='linkedin'></span>"
-    url = "https://www.linkedin.com/in/carlos-zuil-avila/"
-    weight = 8
-
 [markup]
   [markup.tableOfContents]
     startLevel = 1
