@@ -11,16 +11,21 @@ Aquí dejo mi información de contacto, **prefiero ser contactado via email**, p
 
   carloszuilavila@gmail.com 
 
-### :phone: Teléfono: 
+### :calling: Teléfono: 
 
   +34 65 323 56 54
 
-### :link: Mi linkedin
+### :bust_in_silhouette: Mi linkedin
 
   [Mi Linkedin](https://www.linkedin.com/in/carlos-zuil-avila/)
 
-## Currículum Vitae
+## :page_facing_up:	Currículum Vitae
 
   También dejo por aquí debajo mi curriculum por si hiciera falta:
 
 - [Mi Currículum](/curriculum_carlos_zuil_avila.pdf)
+
+## :link: Otros enlaces
+
+- [Mis Proyectos](/projects/)
+- [Mi GitHub](https://github.com/carloszuilavila)
