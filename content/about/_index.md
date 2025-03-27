@@ -19,7 +19,7 @@ Soy desarrollador de software, actividad por la que siento una gran pasión y di
 
 En lo personal, me considero una persona muy amable, que trabaja en equipo y que tiene buenas habilidades sociales. Soy como un engranaje más girando en el sistema del clima laboral positivo.
 
-También soy muy curioso, disfruto mucho aprendiendo cosas nuevas. De hecho, lo disfruto incluso más si se trata de un reto para mí, por lo que estoy en un momento de evolución constante. Además, considero que en el mundo de la informática es imprescindible estar al día con las novedades, las herramientas y los avances tecnológicos que emergen a diario pues son esenciales para optimizar y llevar a otro nivel el trabajo realizado.
+También soy muy curioso, disfruto mucho aprendiendo cosas nuevas. De hecho, lo disfruto incluso más si se trata de un reto para mí, por lo que estoy en un momento de evolución constante. Además, considero que en el mundo de la informática es imprescindible estar al día con las novedades, las herramientas y los avances tecnológicos que emergen a diario pues son esenciales para optimizar y potenciar el trabajo realizado.
 
 En el ámbito laboral siempre doy lo mejor de mí mismo, porque me gusta hacer las cosas bien y aportar valor a un proyecto, y los trabajos que entrego siempre reflejan mi entusiasmo. Soy un abanderado de la organización, las buenas prácticas y el "bien-hacer". También le pongo mucha atención al detalle, pues cada línea de código es una decisión, y cada decisión cuenta.
 
@@ -53,7 +53,7 @@ Otros valores/habilidades que siento que me definen bastante son:
     ```
 - Metodologías:
     ```markdown
-    Git/GitHub | SCRUM | Metodologías Agile
+    Git/GitHub | Scrum | Metodologías Ágiles
     ```
 - Patrones de diseño:
     ```markdown
@@ -97,7 +97,7 @@ Aunque mi trayectoria laboral en la informática aún no es muy extensa, puedo a
     2. Gusto por la enseñanza / mentoría
     3. Resiliencia y gestión del fracaso
     4. Fomento de la innovación en retos deportivos
-    5. Cultura de las motivaciones y la disciplina
+    5. Fomento de la motivación y la disciplina
 ```
 - #### Dependiente en el área textil (2019) | INDITEX
 ```markdown
@@ -118,7 +118,7 @@ Aunque mi trayectoria laboral en la informática aún no es muy extensa, puedo a
 
 ## :mag_right: <a id="intereses"></a> Y yo, ¿qué busco?
 
-Busco trabajar en una empresa con un entorno laboral agradable, donde me ofrezcan oportunidades para seguir creciendo y formándome, y bajo unas condiciones en las que se valore mi esfuerzo y me aporten cierta libertad.
+Busco trabajar en una empresa con un entorno laboral agradable, donde tenga oportunidades para seguir creciendo y formándome, y en unas condiciones en las que se valore mi esfuerzo y se me brinde cierta libertad.
 
 
 ## :link: <a id="para-saber-mas"></a> Para saber más sobre mí
