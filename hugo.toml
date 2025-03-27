@@ -1,5 +1,5 @@
 baseURL = "https://carloszuilavila.github.io/"
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 enableEmoji = true
 # Automatically generate robots.txt
 enableRobotsTXT = true
@@ -11,6 +11,14 @@ title = "Carlos Zuil Ávila"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[languages]
+  [languages.es]
+    languageName = "Español"
+    weight = 1
+  [languages.en]
+    languageName = "English"
+    weight = 2
 
 [params]
 
