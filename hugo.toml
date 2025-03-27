@@ -13,6 +13,7 @@ title = "Carlos Zuil Ávila"
     dir = ':cacheDir/images'
 
 [params]
+
   accentColor = "#89CFF0"
 
   avatarAltText = "avatar"
@@ -59,7 +60,7 @@ title = "Carlos Zuil Ávila"
 
   [[menu.main]]
     name = "About Me"
-    pre = "<span data-feather='book'></span>"
+    pre = "<img class='svg-inject' src='/svg/icons/smile.svg' />"
     url = "/about/"
     weight = 2
 
@@ -71,13 +72,13 @@ title = "Carlos Zuil Ávila"
 
   [[menu.main]]
     name = "Contact"
-    pre = "<span data-feather=''></span>"
+    pre = "<span data-feather='book'></span>"
     url = "/contact/"
     weight = 4
 
   [[menu.main]]
     name = "Posts"
-    pre = "<span data-feather=''></span>"
+    pre = "<span data-feather='edit'></span>"
     url = "/posts/"
     weight = 5
 
@@ -98,6 +99,8 @@ title = "Carlos Zuil Ávila"
     pre = "<span data-feather='github'></span>"
     url = "https://github.com/carloszuilavila"
     weight = 8
+    [menu.main.params]
+      newPage = true
 
 [markup]
   [markup.tableOfContents]
