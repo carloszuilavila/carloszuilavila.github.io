@@ -5,7 +5,7 @@ type: page
 showTableOfContents: true
 ---
 
-Aquí dejo mi información de contacto, **prefiero ser contactado via email**, pero si prefieres otro método igualmente responderé de forma inmediata. ¡No dudes en contactarme!
+Aquí dejo mi información de contacto, prefiero ser contactado via email, pero si prefieres otro método igualmente responderé de forma inmediata. ¡No dudes en contactarme!
 
 ### :email: Correo: 
 

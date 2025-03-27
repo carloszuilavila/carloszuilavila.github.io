@@ -1,6 +1,6 @@
 ---
 title: Proyectos
-type: post
+type: page
 ---
 
 # :card_index_dividers: Proyectos de gestión de bases de datos
