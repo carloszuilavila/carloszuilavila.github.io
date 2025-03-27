@@ -13,6 +13,8 @@ title = "Carlos Zuil Ávila"
     dir = ':cacheDir/images'
 
 [params]
+  accentColor = "#89CFF0"
+
   avatarAltText = "avatar"
   avatarSize = "size-l"
   avatarURL = "/images/avatar.webp"
