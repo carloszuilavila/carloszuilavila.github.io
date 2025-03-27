@@ -1,56 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Carlos Zuil Ávila</title><link>http://localhost:1313/</link><description>Recent content on Carlos Zuil Ávila</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 25 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Theme Documentation - Basics</title><link>http://localhost:1313/posts/theme-documentation-basics/</link><pubDate>Fri, 06 Mar 2020 21:29:01 +0800</pubDate><guid>http://localhost:1313/posts/theme-documentation-basics/</guid><description>&lt;p>Gokarna is an opinionated theme with a focus on minimalism and simplicity.&lt;/p>
-&lt;h2 id="installation">Installation&lt;/h2>
-&lt;p>Follow these steps to initialize your new website.&lt;/p>
-&lt;p>If you are new to &lt;a href="https://gohugo.io/">Hugo&lt;/a>, we suggest following this &lt;a href="https://gohugo.io/getting-started/quick-start/">great documentation for beginners&lt;/a>.&lt;/p>
-&lt;h3 id="create-your-project">a. Create Your Project&lt;/h3>
-&lt;p>Hugo provides a &lt;code>new&lt;/code> subcommand to create a new website:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>hugo new site my-website
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>cd my-website
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="install-the-theme">b. Install the Theme&lt;/h3>
-&lt;p>The theme&amp;rsquo;s repository is: &lt;a href="https://github.com/gokarna-theme/gokarna-hugo">https://github.com/gokarna-theme/gokarna-hugo&lt;/a>.&lt;/p>
-&lt;p>Make this repository a submodule of your Git project:&lt;/p></description></item><item><title>Theme Documentation - Advanced</title><link>http://localhost:1313/posts/theme-documentation-advanced/</link><pubDate>Wed, 06 May 2020 21:29:01 +0800</pubDate><guid>http://localhost:1313/posts/theme-documentation-advanced/</guid><description>&lt;p>Gokarna is an opinionated theme with a focus on minimalism and simplicity.&lt;/p>
-&lt;h2 id="content-types">Content Types&lt;/h2>
-&lt;p>This theme supports two types of content types: &lt;code>post&lt;/code> and &lt;code>page&lt;/code>. To specify them, you need to add them in your markdown metadata.&lt;/p>
-&lt;h3 id="post">Post&lt;/h3>
-&lt;p>This is the default blog post type which will be shown in your &amp;ldquo;Posts&amp;rdquo; section and who&amp;rsquo;s tags will be indexed. Basically, a normal blog post.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>---
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>title: &amp;#34;Hello, world!&amp;#34;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>date: 2021-01-01
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>description: &amp;#34;A blog post&amp;#34;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>image: &amp;#34;/path/to/image.png&amp;#34;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>type: &amp;#34;post&amp;#34;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>tags: [&amp;#34;blog&amp;#34;]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>---
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span># Hello World!
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>This is my blog.
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="page">Page&lt;/h3>
-&lt;p>We introduced this type to distinguish between blog posts and normal markdown pages. The reason to create this was to give the user complete freedom in creating their website. You can use this to create a portfolio of your projects or showcase your designs. The possibilites are endless and the choice is yours.&lt;/p></description></item><item><title>Markdown Syntax Guide</title><link>http://localhost:1313/posts/markdown-syntax/</link><pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/markdown-syntax/</guid><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
-&lt;h1 id="headings">Headings&lt;/h1>
-&lt;p>The following HTML &lt;code>&amp;lt;h1&amp;gt;&lt;/code>—&lt;code>&amp;lt;h6&amp;gt;&lt;/code> elements represent six levels of section headings. &lt;code>&amp;lt;h1&amp;gt;&lt;/code> is the highest section level while &lt;code>&amp;lt;h6&amp;gt;&lt;/code> is the lowest.&lt;/p>
-&lt;h1 id="h1">H1&lt;/h1>
-&lt;h2 id="h2">H2&lt;/h2>
-&lt;h3 id="h3">H3&lt;/h3>
-&lt;h4 id="h4">H4&lt;/h4>
-&lt;h5 id="h5">H5&lt;/h5>
-&lt;h6 id="h6">H6&lt;/h6>
-&lt;h2 id="paragraph">Paragraph&lt;/h2>
-&lt;p>Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p></description></item><item><title>Emoji Support</title><link>http://localhost:1313/posts/emoji-support/</link><pubDate>Thu, 01 Oct 2020 17:55:28 +0800</pubDate><guid>http://localhost:1313/posts/emoji-support/</guid><description>&lt;p>Emoji can be enabled in a Hugo project in a number of ways.&lt;/p>
-&lt;p>The &lt;a href="https://gohugo.io/functions/emojify/">&lt;code>emojify&lt;/code>&lt;/a> function can be called directly in templates or &lt;a href="https://gohugo.io/templates/shortcode-templates#inline-shortcodes">Inline Shortcodes&lt;/a>.&lt;/p>
-&lt;p>To enable emoji globally, set &lt;code>enableEmoji&lt;/code> to &lt;code>true&lt;/code> in your &lt;a href="https://gohugo.io/getting-started/configuration/">site configuration&lt;/a> and then you can type emoji shorthand codes directly in content files.&lt;/p>
-&lt;p>These begin and end with a &lt;strong>colon&lt;/strong> and include the &lt;strong>code&lt;/strong> of an emoji:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>Gone camping! {?:}tent: Be back soon.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>That is so funny! {?:}joy:
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>The rendered output looks like this:&lt;/p></description></item><item><title>Emoji Support</title><link>http://localhost:1313/projects/plantilla/</link><pubDate>Thu, 01 Oct 2020 17:55:28 +0800</pubDate><guid>http://localhost:1313/projects/plantilla/</guid><description>&lt;p>Emoji can be enabled in a Hugo project in a number of ways.&lt;/p>
-&lt;p>The &lt;a href="https://gohugo.io/functions/emojify/">&lt;code>emojify&lt;/code>&lt;/a> function can be called directly in templates or &lt;a href="https://gohugo.io/templates/shortcode-templates#inline-shortcodes">Inline Shortcodes&lt;/a>.&lt;/p>
-&lt;p>To enable emoji globally, set &lt;code>enableEmoji&lt;/code> to &lt;code>true&lt;/code> in your &lt;a href="https://gohugo.io/getting-started/configuration/">site configuration&lt;/a> and then you can type emoji shorthand codes directly in content files.&lt;/p>
-&lt;p>These begin and end with a &lt;strong>colon&lt;/strong> and include the &lt;strong>code&lt;/strong> of an emoji:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>Gone camping! {?:}tent: Be back soon.
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>That is so funny! {?:}joy:
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>The rendered output looks like this:&lt;/p></description></item><item><title>Primer Post</title><link>http://localhost:1313/posts/primer-post/</link><pubDate>Tue, 25 Mar 2025 17:11:55 +0100</pubDate><guid>http://localhost:1313/posts/primer-post/</guid><description/></item><item><title>Lorem Ipsum</title><link>http://localhost:1313/posts/lorem-ipsum/</link><pubDate>Thu, 15 Apr 2021 23:39:49 +0530</pubDate><guid>http://localhost:1313/posts/lorem-ipsum/</guid><description>&lt;h1 id="heading-1">Heading 1&lt;/h1>
-&lt;p>&amp;ldquo;Lorem ipsum dolor sit amet, consectetaur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&amp;rdquo;&lt;/p></description></item><item><title>Blüdhaven</title><link>http://localhost:1313/projects/bludhaven/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/bludhaven/</guid><description>&lt;h2 id="history">History&lt;/h2>
-&lt;p>Blüdhaven was a former whaling town, which was officially incorporated as a &amp;ldquo;Commonwealth&amp;rdquo; in 1912. The town had a generally poor socio-economic populace, owing in part to failed efforts to transform itself into a manufacturing and shipping center.&lt;/p></description></item><item><title>Hydra</title><link>http://localhost:1313/projects/hydra/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/hydra/</guid><description>&lt;h2 id="motto">Motto&lt;/h2>
-&lt;p>Cut off one head, and two will take their place.&lt;/p></description></item><item><title>Tatooine</title><link>http://localhost:1313/projects/tatooine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/tatooine/</guid><description>&lt;h2 id="a-long-time-ago-in-a-galaxy-far-far-away">A long time ago in a galaxy far, far away&amp;hellip;.&lt;/h2>
-&lt;p>A project was planned, but never completed.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Carlos Zuil Ávila</title><link>http://localhost:1313/</link><description>Recent content on Carlos Zuil Ávila</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 25 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Emoji Support</title><link>http://localhost:1313/projects/plantilla/</link><pubDate>Thu, 01 Oct 2020 17:55:28 +0800</pubDate><guid>http://localhost:1313/projects/plantilla/</guid><description>&lt;p>Texto de prueba&lt;/p>
+&lt;h1 id="texto-de-prueba">Texto de prueba&lt;/h1></description></item><item><title>Mis hobbys</title><link>http://localhost:1313/posts/hobbys/</link><pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/hobbys/</guid><description>&lt;p>Todo el mundo necesita ocio. Es algo indispensable. En mi caso, estas son las cosas que más disfruto y sin las que no puedo vivir, estás a punto de leer mi biblia del bienestar.&lt;/p>
+&lt;h1 id="mis-intereses">Mis intereses&lt;/h1>
+&lt;ul>
+&lt;li>
+&lt;p>Leer y escribir historias&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jugar a videojuegos, dedicando también algún rato a aprender a desarrollarlos&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hacer deporte&lt;/p>
+&lt;ul>
+&lt;li>(calistenia, parkour, voleibol, futbol, salir a correr, nadar&amp;hellip;)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Quedar con la gente que quiero&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Series de anime, y series/películas live action&lt;/p></description></item><item><title>Proyectos</title><link>http://localhost:1313/projects/bbdd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/bbdd/</guid><description>&lt;h1 id="card_index_dividers-proyectos-de-gestión-de-bases-de-datos">&amp;#x1f5c2;&amp;#xfe0f; Proyectos de gestión de bases de datos&lt;/h1>
+&lt;h2 id="tecnologías">Tecnologías&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>IntelliJ | Java | Maven | Hibernate (JPA) | MongoDB | Git/GitHub
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="descripción">Descripción&lt;/h2>
+&lt;p>Prácticas realizadas para la asignatura de Acceso a Datos de 2ºDAM (IES CAÑAVERAL). Son programas desarrollados en IntelliJ con el lenguaje Java, con el objetivo de gestionar distintas bases de datos mediante una separación de capas entre la capa servicios y la capa DAO.&lt;/p>
+&lt;p>El primer programa (primer enlace) permite acceder a una base de datos usando Hibernate (ORM) para realizar operaciones. Se utiliza el patrón DAO y distintos servicios para separar la lógica de negocio del acceso a la base de datos.&lt;/p></description></item><item><title>Proyectos</title><link>http://localhost:1313/projects/marketmanager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/marketmanager/</guid><description>&lt;h1 id="shopping_cart-marketmanager">&amp;#x1f6d2; MarketManager&lt;/h1>
+&lt;h2 id="tecnologías">Tecnologías&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>Visual Studio | C# | .NET | WinForms | Git/GitHub
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="descripción">Descripción&lt;/h2>
+&lt;p>Práctica realizada para la asignatura de Desarrollo de Interfaces de 2ºDAM (IES CAÑAVERAL). Es un programa desarrollado en Visual Studio con el lenguaje C#, utilizando .NET para WinForms. El programa ha sido desarrollado con la idea de que pueda gestionar ciertos datos de un supermercado.&lt;/p>
+&lt;h2 id="enlace">Enlace&lt;/h2>
+&lt;p>&lt;a href="https://github.com/carloszuilavila/MarketManager-DI-2DAM">MarketManager - Carlos Zuil Ávila&lt;/a>&lt;/p></description></item><item><title>Proyectos</title><link>http://localhost:1313/projects/moodtracker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/projects/moodtracker/</guid><description>&lt;h1 id="calendar-moodtracker">&amp;#x1f4c6; MoodTracker&lt;/h1>
+&lt;h2 id="tecnologías">Tecnologías&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>Android Studio | Java | Git/GitHub
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="descripción">Descripción&lt;/h2>
+&lt;p>Práctica realizada para la asignatura de Programación multimedia y dispositivos móviles de 2ºDAM (IES CAÑAVERAL). Es una aplicación desarrollada en Android Studio con el lenguaje Java, que permite al usuario hacer un seguimiento de sus estados de ánimo e incluye un reproductor para relajarse.&lt;/p>
+&lt;h2 id="enlace">Enlace&lt;/h2>
+&lt;p>&lt;a href="https://github.com/carloszuilavila/Moodtracker-PMDM-2DAM">MoodTracker - Carlos Zuil Ávila&lt;/a>&lt;/p></description></item></channel></rss>
