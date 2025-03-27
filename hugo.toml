@@ -59,7 +59,7 @@ title = "Carlos Zuil Ávila"
 
   [[menu.main]]
     name = "About Me"
-    pre = "<span data-feather='angellist'></span>"
+    pre = "<span data-feather='book'></span>"
     url = "/about/"
     weight = 2
 
@@ -71,13 +71,13 @@ title = "Carlos Zuil Ávila"
 
   [[menu.main]]
     name = "Contact"
-    pre = "<span data-feather='code'></span>"
+    pre = "<span data-feather=''></span>"
     url = "/contact/"
     weight = 4
 
   [[menu.main]]
     name = "Posts"
-    pre = "<span data-feather='book'></span>"
+    pre = "<span data-feather=''></span>"
     url = "/posts/"
     weight = 5
 

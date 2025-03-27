@@ -2,10 +2,10 @@
   --content-width: 1120px;
   --container-width: 810px;
 
-  --light-primary-color: 255, 255, 255;
+  --light-primary-color: 248, 249, 250;
   --light-secondary-color: #dddddd;
   --light-tertiary-color: #272822;
-  --light-text-color: black;
+  --light-text-color: rgb(50, 50, 50);
 }
 
 @font-face {
