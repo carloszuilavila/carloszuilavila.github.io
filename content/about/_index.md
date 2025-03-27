@@ -13,7 +13,7 @@ showTableOfContents: true
 
 ## :wave: <a id="presentacion"></a> Presentación
 
-**Soy desarrollador de software**, actividad por la que siento una gran pasión y disfrute. Mi enfoque en este área es el de asegurarme que las soluciones en las que trabajo siempre sean *robustas, eficientes, escalables y de alto rendimiento*.
+Soy desarrollador de software, actividad por la que siento una gran pasión y disfrute. Mi enfoque en este área es el de asegurarme que las soluciones en las que trabajo siempre sean *robustas, eficientes, escalables y de alto rendimiento*.
 
 ## :raising_hand: <a id="sobre-mi"></a> Sobre mí
 
@@ -27,11 +27,11 @@ Otros valores/habilidades que siento que me definen bastante son:
 
 - Resolutivo
 - Proactivo
+- Creativo
 - Flexible
 - Responsable
 - Trabajador
 - Disciplinado
-- Creativo
 
 
 ## :computer: <a id="conocimientos"></a> Mis conocimientos
@@ -107,6 +107,7 @@ Aunque mi trayectoria laboral en la informática aún no es muy extensa, puedo a
 - #### Monitor de Street Workout para niños en riesgo de exclusión social (2016/17) | Concejalía de la Juventud del Ayuntamiento de Fuenlabrada
 ```markdown
     1. Empatía
+    2. Habilidades pedagógicas  
 ```
 
 ## :speech_balloon: <a id="idiomas"></a> Idiomas
