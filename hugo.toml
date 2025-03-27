@@ -49,7 +49,7 @@ title = "Carlos Zuil Ávila"
     </script>
   """
 
-  description = "Sky above, sand below and peace within"
+  description = "Las líneas de código que necesitamos están a nuestro alrededor. En cada descanso, en cada variable, en cada punto y coma."
   footer = "Carlos Zuil Ávila"
   metaKeywords = ["blog", "gokarna", "hugo"]
   showBackToTopButton = true # true or false for "back to top" button on posts and pages

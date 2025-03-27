@@ -15,7 +15,7 @@ Aquí dejo mi información de contacto, **prefiero ser contactado via email**, p
 
   +34 65 323 56 54
 
-### :bust_in_silhouette: Mi linkedin
+### :bust_in_silhouette: Linkedin
 
   [Mi Linkedin](https://www.linkedin.com/in/carlos-zuil-avila/)
 

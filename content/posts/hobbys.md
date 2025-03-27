@@ -18,13 +18,14 @@ Todo el mundo necesita ocio. Es algo indispensable. En mi caso, estas son las co
 - Jugar a videojuegos, dedicando también algún rato a aprender a desarrollarlos
 
 - Hacer deporte 
-    - (calistenia, parkour, voleibol, futbol, salir a correr, nadar...)
+
+    - Calistenia, parkour, voleibol, fútbol, salir a correr, nadar...
 
 - Quedar con la gente que quiero
 
 - Series de anime, y series/películas live action
 
-- Escuchar música, y además soy productor musical
+- Escuchar música (además también soy productor musical)
 
 - Coleccionar figuras de anime
 
