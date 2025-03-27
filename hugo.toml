@@ -102,7 +102,7 @@ title = "Carlos Zuil Ávila"
 [markup]
   [markup.tableOfContents]
     startLevel = 1
-    endLevel = 4
+    endLevel = 6
     ordered = false
 
 [minify]
