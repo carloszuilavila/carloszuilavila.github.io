@@ -8,14 +8,14 @@ showTableOfContents: true
 # Mi nombre es Carlos. :smile:
 
 
-[Presentación](#presentacion) | [Sobre mí](#sobre-mi) | [Conocimientos](#conocimientos) | [Estudios](#mis-estudios) | [Experiencia Laboral](#mi-experiencia-laboral) | [Para saber más](#para-saber-mas) | [Y yo, ¿qué busco?](#intereses) | [Idiomas](#idiomas)
+[Presentación](#presentacion) | [Sobre mí](#sobre-mi) | [Conocimientos](#conocimientos) | [Estudios](#estudios) | [Experiencia Laboral](#experiencia-laboral) |  [Idiomas](#idiomas) | [Y yo, ¿qué busco?](#intereses) | [Para saber más](#saber-mas)
 
 
-## :wave: <a id="presentacion"></a> Presentación
+## :wave: Presentación {#presentacion}
 
 Soy desarrollador de software, actividad por la que siento una gran pasión y disfrute. Mi enfoque en este área es el de asegurarme que las soluciones en las que trabajo siempre sean *robustas, eficientes, escalables y de alto rendimiento*.
 
-## :raising_hand: <a id="sobre-mi"></a> Sobre mí
+## :raising_hand: Sobre mí {#sobre-mi}
 
 En lo personal, me considero una persona muy amable, que trabaja en equipo y que tiene buenas habilidades sociales. Soy como un engranaje más girando en el sistema del clima laboral positivo.
 
@@ -34,7 +34,7 @@ Otros valores/habilidades que siento que me definen bastante son:
 - Disciplinado
 
 
-## :computer: <a id="conocimientos"></a> Mis conocimientos
+## :computer: Mis conocimientos {#conocimientos}
 
 - Bases de datos: 
     ```markdown
@@ -65,7 +65,7 @@ Otros valores/habilidades que siento que me definen bastante son:
     Clean Architecture | MVP | MVVM
     ```
 
-## :books: <a id="mis-estudios"></a> Mis estudios
+## :books: Mis estudios {#estudios}
 
 - Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
     - `IES El Cañaveral | 2023 - 2025`
@@ -73,7 +73,7 @@ Otros valores/habilidades que siento que me definen bastante son:
 - Bachillerato
     - `IES África | 2016 - 2019`
 
-## :briefcase: <a id="mi-experiencia-laboral"></a> Mi experiencia laboral
+## :briefcase: Mi experiencia laboral {#experiencia-laboral}
 
 Aunque mi trayectoria laboral en la informática aún no es muy extensa, puedo asegurar que no define mis conocimientos en el área, que sí considero amplios. Además, he adquirido y desarrollado algunas habilidades imprescindibles con todas las experiencias laborales previas en otros ámbitos:
 
@@ -110,18 +110,18 @@ Aunque mi trayectoria laboral en la informática aún no es muy extensa, puedo a
     2. Habilidades pedagógicas  
 ```
 
-## :speech_balloon: <a id="idiomas"></a> Idiomas
+## :speech_balloon: Idiomas {#idiomas}
 
 - Español | Nativo
 - Inglés | Competencia intermedia
 
 
-## :mag_right: <a id="intereses"></a> Y yo, ¿qué busco?
+## :mag_right: Y yo, ¿qué busco? {#intereses}
 
 Busco trabajar en una empresa con un entorno laboral agradable, donde tenga oportunidades para seguir creciendo y formándome, y en unas condiciones en las que se valore mi esfuerzo y se me brinde cierta libertad.
 
 
-## :link: <a id="para-saber-mas"></a> Para saber más sobre mí
+## :link: Para saber más sobre mí {#saber-mas}
 
 Si has llegado hasta aquí, ¡agradezco mucho tu interés y tu tiempo! Si aún tienes ganas de saber más, aquí te dejo algunos enlaces:
 

@@ -55,8 +55,10 @@ title = "Carlos Zuil Ávila"
   showBackToTopButton = true # true or false for "back to top" button on posts and pages
 
   socialIcons = [
+    {name = "github", url = "https://github.com/carloszuilavila"},
     {name = "linkedin", url = "https://www.linkedin.com/in/carlos-zuil-avila/"},
-    {name = "email", url = "mailto:carloszuilavila@gmail.com"}
+    {name = "email", url = "mailto:carloszuilavila@gmail.com"},
+    {name = "file-text", url = "/curriculum_carlos_zuil_avila.pdf"}
   ]
 
 [menu]
