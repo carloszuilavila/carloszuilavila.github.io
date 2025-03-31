@@ -46,20 +46,18 @@ Otros valores/habilidades que siento que me definen bastante son:
     ```markdown
     Java | C# | POO | XML | JSON | CSV
     ```
+
 - Frameworks y herramientas:
     ```markdown
     IntelliJ con Maven | Visual Studio con .NET (WinForms) | Android Studio | 
     Visual Studio Code | APIs RESTful | Git/GitHub | Docker | Postman | Sockets
     ```
+
 - Metodologías:
     ```markdown
     Git/GitHub | Scrum | Metodologías Ágiles
     ```
-- Patrones de diseño:
-    ```markdown
-
-    ```
-
+    
 - Arquitectura: 
     ```markdown
     Clean Architecture | MVP | MVVM
